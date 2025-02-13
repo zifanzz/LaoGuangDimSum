@@ -1,0 +1,1 @@
+Adds new dim sum food items sold by the Traveling Merchant.

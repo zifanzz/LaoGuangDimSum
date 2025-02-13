@@ -1,0 +1,36 @@
+Items: {
+	GuiLingGao: {
+		DisplayName: Gui Ling Gao
+		Tooltip: Traditional Chinese herbal jelly celebrated for its cooling and detoxifying properties.
+	}
+
+	ShaoMai: {
+		DisplayName: Shao Mai
+		Tooltip: Chinese dim sum dumpling, featuring a delicate wrapper filled with a savory blend of pork, shrimp, and vegetables, steamed to perfection for a burst of flavor.
+	}
+
+	DanTa: {
+		DisplayName: Dan Ta
+		Tooltip: Delectable pastry featuring a buttery, flaky crust filled with a velvety, lightly sweetened egg custard that offers a perfect balance of textures and flavors.
+	}
+
+	NiuZa: {
+		DisplayName: Nui Za
+		Tooltip: Hearty Chinese delicacy featuring a savory medley of tender beef offal slow-cooked with aromatic spices to create a robust and deeply satisfying flavor.
+	}
+
+	FengZhua: {
+		DisplayName: Feng Zhua
+		Tooltip: Beloved Chinese delicacy braised in a savory, aromatic sauce, offering a unique blend of tender texture and robust flavor.
+	}
+
+	NuoMiJi: {
+		DisplayName: Nuo Mi Ji
+		Tooltip: Savory dim sum favorite where tender marinated chicken, Chinese sausage, and mushrooms are steamed together with sticky glutinous rice in aromatic lotus leaves for a burst of flavor.
+	}
+
+	JianDui: {
+		DisplayName: Jian Dui
+		Tooltip: Jian Dui, also known as sesame balls, are crispy and chewy deep-fried glutinous rice treats coated in sesame seeds and filled with sweet red bean paste.
+	}
+}
