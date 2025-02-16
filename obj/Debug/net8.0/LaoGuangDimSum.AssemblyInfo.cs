@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaoGuangDimSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2840470959fa99fb5c1eccc2bf2cbd2298a3df3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaoGuangDimSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaoGuangDimSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

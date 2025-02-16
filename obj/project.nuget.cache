@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o17i4z9vySY=",
+  "dgSpecHash": "A1A3bQH8bcA=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj",
+  "projectFilePath": "C:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zifan Zhang\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],

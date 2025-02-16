@@ -25,5 +25,14 @@ namespace LaoGuangDimSum.Items
             Item.buffType = BuffID.WellFed;
             Item.buffTime = 14400; // duration in ticks (60 ticks = 1 second)
         }
+
+        public override void AddRecipes()
+        {
+            Recipe  recipe = CreateRecipe();
+            recipe.AddIngredient(ItemID.TurtleShell);
+            recipe.AddIngredient(ItemID.BottledWater);
+            recipe.AddTile(ModContent.TileType<Tiles.ChineseKitchenTile>());
+            recipe.Register();
+        }
     }
 }

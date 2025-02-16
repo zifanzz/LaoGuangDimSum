@@ -8,7 +8,7 @@ namespace LaoGuangDimSum.Items
     {
         public override void SetDefaults()
         {
-            // Adjust these values to suit your item’s size and function.
+            // Adjust these values to suit your item's size and function.
             Item.width = 20;
             Item.height = 20;
             Item.maxStack = 99;
@@ -24,6 +24,31 @@ namespace LaoGuangDimSum.Items
             // Optional: If you want to grant a buff (e.g., the Well Fed buff):
             Item.buffType = BuffID.WellFed3;
             Item.buffTime = 72000; // duration in ticks (60 ticks = 1 second)
+        }
+
+        public override void AddRecipes()
+        {
+            // All possible bird types
+            var birdTypes = new int[]
+            {
+                ItemID.Bird,
+                ItemID.GoldBird,
+                ItemID.BlueJay,
+                ItemID.Cardinal,
+                ItemID.Penguin
+            };
+
+            // Create a recipe variant for each bird type
+            foreach (int birdType in birdTypes)
+            {
+                Recipe recipe = CreateRecipe();
+                recipe.AddIngredient(birdType, 1);
+                recipe.AddIngredient(ModContent.ItemType<Rice>(), 1);
+                recipe.AddIngredient(ItemID.LivingLeafWall, 1);
+                recipe.AddIngredient(ModContent.ItemType<TiaoLiaoBao>(), 1);
+                recipe.AddTile(ModContent.TileType<Tiles.ChineseKitchenTile>());
+                recipe.Register();
+            }
         }
     }
 }

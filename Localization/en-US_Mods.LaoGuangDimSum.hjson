@@ -33,4 +33,149 @@ Items: {
 		DisplayName: Jian Dui
 		Tooltip: Jian Dui, also known as sesame balls, are crispy and chewy deep-fried glutinous rice treats coated in sesame seeds and filled with sweet red bean paste.
 	}
+
+	BaiZhou: {
+		DisplayName: Bai Zhou
+		Tooltip: Classic Chinese rice porridge, a comforting dish made with tender rice simmered until creamy and smooth.
+	}
+
+	BoLuoBao: {
+		DisplayName: Bo Luo Bao
+		Tooltip: Sweet and buttery pineapple bun with a crispy, cookie-like top crust that resembles a pineapple pattern.
+	}
+
+	ChangFen: {
+		DisplayName: Chang Fen
+		Tooltip: Silky rice noodle rolls filled with various ingredients, drizzled with sweet soy sauce for a delicate and satisfying dim sum classic.
+	}
+
+	ChaShaoBao: {
+		DisplayName: Cha Shao Bao
+		Tooltip: Fluffy steamed buns filled with sweet and savory BBQ pork, a beloved dim sum staple.
+	}
+
+	ChineseKitchen: {
+		DisplayName: Chinese Kitchen
+		Tooltip: A traditional Chinese cooking station equipped for crafting authentic dim sum dishes.
+	}
+
+	ChiZhiPaiGu: {
+		DisplayName: Chi Zhi Pai Gu
+		Tooltip: Tender pork ribs braised in a rich black bean sauce, offering a perfect balance of savory and umami flavors.
+	}
+
+	Egg: {
+		DisplayName: Egg
+		Tooltip: A fresh egg, essential for many dim sum recipes.
+	}
+
+	FenGuo: {
+		DisplayName: Fen Guo
+		Tooltip: Delicate steamed rice flour dumplings filled with a mixture of pork, mushrooms, and bamboo shoots.
+	}
+
+	Flour: {
+		DisplayName: Flour
+		Tooltip: Fine wheat flour, a basic ingredient for making dim sum wrappers and doughs.
+	}
+
+	GuiHuaYeZhiGao: {
+		DisplayName: Gui Hua Ye Zhi Gao
+		Tooltip: Delicate coconut jelly dessert infused with fragrant flowers, offering a subtle floral sweetness.
+	}
+
+	HongMiChang: {
+		DisplayName: Hong Mi Chang
+		Tooltip: Delight with a red rice casing, crispy golden layer, and tender shrimp center.
+	}
+
+	JiuCaiJiao: {
+		DisplayName: Jiu Cai Jiao
+		Tooltip: Pan-fried dumplings filled with fragrant Chinese chives, crispy on the bottom and juicy inside.
+	}
+
+	LiuShaBao: {
+		DisplayName: Liu Sha Bao
+		Tooltip: Steamed buns with a molten custard center made from salted egg yolks, creating a sweet and savory filling.
+	}
+
+	LunJiaoGao: {
+		DisplayName: Lun Jiao Gao
+		Tooltip: Traditional steamed rice cakes with a soft, springy texture and subtle sweetness.
+	}
+
+	LuoBo: {
+		DisplayName: Luo Bo
+		Tooltip: Fresh white radish, commonly used in Chinese cuisine for its crisp texture and mild flavor.
+	}
+
+	LuoBoGao: {
+		DisplayName: Luo Bo Gao
+		Tooltip: Savory pan-fried radish cakes made with shredded radish and rice flour, studded with dried shrimp and Chinese sausage.
+	}
+
+	MaLaGao: {
+		DisplayName: Ma La Gao
+		Tooltip: Traditional Chinese steamed sponge cake with a light, fluffy texture and honeycomb pattern.
+	}
+
+	MaTiGao: {
+		DisplayName: Ma Ti Gao
+		Tooltip: A translucent, chewy Chinese dessert made from water chestnuts, known for its refreshing sweetness. The name "Ma Ti" refers to both water chestnuts and horse hooves due to their similar shape.
+	}
+
+	Meat: {
+		DisplayName: Meat
+		Tooltip: Fresh meat, a key ingredient in many dim sum dishes.
+	}
+
+	Oil: {
+		DisplayName: Oil
+		Tooltip: Cooking oil extracted from daybloom seeds, essential for Chinese cooking.
+	}
+
+	PiDanShouRouZhou: {
+		DisplayName: Pi Dan Shou Rou Zhou
+		Tooltip: Hearty rice porridge with preserved century egg and tender pork, garnished with green onions and ginger.
+	}
+
+	Rice: {
+		DisplayName: Rice
+		Tooltip: A staple grain used in many Chinese dishes, provides nourishment and healing.
+	}
+
+	Tea: {
+		DisplayName: Tea
+		Tooltip: Traditional Chinese tea, the perfect accompaniment to dim sum dishes.
+	}
+
+	TiaoLiaoBao: {
+		DisplayName: Tiao Liao Bao
+		Tooltip: A pack of mixed seasonings and spices commonly used in Chinese cooking.
+	}
+
+	XiaJiao: {
+		DisplayName: Xia Jiao
+		Tooltip: Translucent shrimp dumplings with a delicate wrapper and succulent filling, a dim sum essential.
+	}
+
+	YouCai: {
+		DisplayName: You Cai
+		Tooltip: Chinese leafy greens stir-fried with garlic, offering a healthy and flavorful side dish.
+	}
+
+	YouZhaGui: {
+		DisplayName: You Zha Gui
+		Tooltip: Chinese cruller, a deep-fried breadstick with a crispy exterior and light, airy interior. The name "You Zha Gui" literally means "oil-fried ghost" in Chinese. "Gui" means ghost and is refering to the ghost of the corrupt official Qin Hui and his wife, who were despised for their role in the unjust execution of the national hero Yue Fei in the Southern Song Dynasty.
+	}
+
+	ZhaLiang: {
+		DisplayName: Zha Liang
+		Tooltip: Rice noodle roll wrapped around a crispy Chinese cruller, creating a delightful contrast of textures.
+	}
+
+	ZhaXianNai: {
+		DisplayName: Zha Xian Nai
+		Tooltip: Deep-fried milk, a sweet dim sum dessert with a crispy coating and creamy center.
+	}
 }

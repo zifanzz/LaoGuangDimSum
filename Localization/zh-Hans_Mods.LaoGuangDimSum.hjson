@@ -1,0 +1,181 @@
+Items: {
+	GuiLingGao: {
+		DisplayName: 龟苓膏
+		Tooltip: 传统中式凉茶甜品，以清凉解暑和排毒功效著称。
+	}
+
+	ShaoMai: {
+		DisplayName: 烧卖
+		Tooltip: 中式点心，薄皮包裹鲜美的猪肉、虾仁和蔬菜，蒸制而成，口感鲜美。
+	}
+
+	DanTa: {
+		DisplayName: 蛋挞
+		Tooltip: 美味的酥皮点心，外层酥脆，内馅是滑嫩的蛋奶馅，口感层次丰富。
+	}
+
+	NiuZa: {
+		DisplayName: 牛杂
+		Tooltip: 经典中式美食，以香料慢炖多种牛内脏，口感丰富，味道浓郁。
+	}
+
+	FengZhua: {
+		DisplayName: 凤爪
+		Tooltip: 广受欢迎的卤味小吃，以秘制酱料焖煮，口感鲜美。
+	}
+
+	NuoMiJi: {
+		DisplayName: 糯米鸡
+		Tooltip: 经典点心，将腌制鸡肉、腊肠和香菇与糯米一同用荷叶包裹蒸制，香味四溢。
+	}
+
+	JianDui: {
+		DisplayName: 煎堆
+		Tooltip: 又称芝麻球，外裹芝麻的炸糯米团子，内馅红豆沙，外酥内软。
+	}
+
+	BaiZhou: {
+		DisplayName: 白粥
+		Tooltip: 传统中式粥品，将大米熬煮至绵密顺滑，暖胃养生。
+	}
+
+	BoLuoBao: {
+		DisplayName: 菠萝包
+		Tooltip: 甜香的奶油面包，顶部覆盖酥脆的饼干层，形似菠萝纹路。
+	}
+
+	ChangFen: {
+		DisplayName: 肠粉
+		Tooltip: 滑嫩的米粉卷，配以各式馅料，淋上甜酱油，是经典粤式点心。
+	}
+
+	ChaShaoBao: {
+		DisplayName: 叉烧包
+		Tooltip: 松软的蒸包，内馅是甜咸适中的叉烧肉，深受欢迎的点心。
+	}
+
+	ChineseKitchen: {
+		DisplayName: 中式厨房
+		Tooltip: 传统中式厨具，可用于制作正宗点心。
+	}
+
+	ChiZhiPaiGu: {
+		DisplayName: 豉汁排骨
+		Tooltip: 以豆豉酱焖煮的嫩排骨，咸鲜可口。
+	}
+
+	Egg: {
+		DisplayName: 鸡蛋
+		Tooltip: 新鲜鸡蛋，制作点心的重要原料。
+	}
+
+	FenGuo: {
+		DisplayName: 粉果
+		Tooltip: 精致的蒸粉粿，内馅是猪肉、香菇和笋丁的混合馅料。
+	}
+
+	Flour: {
+		DisplayName: 面粉
+		Tooltip: 细腻的小麦粉，制作点心皮和面团的基础原料。
+	}
+
+	GuiHuaYeZhiGao: {
+		DisplayName: 桂花椰汁糕
+		Tooltip: 清淡的椰汁糕点，以桂花点缀，带有淡雅的花香。
+	}
+
+	HongMiChang: {
+		DisplayName: 红米肠
+		Tooltip: 外皮以红米制成，包裹金黄酥脆的外层和鲜嫩虾馅。
+	}
+
+	JiuCaiJiao: {
+		DisplayName: 韭菜饺
+		Tooltip: 煎制的饺子，内馅是香浓的韭菜，底部酥脆，内馅多汁。
+	}
+
+	LiuShaBao: {
+		DisplayName: 流沙包
+		Tooltip: 蒸包内藏咸蛋黄制成的流沙馅，甜咸相宜。
+	}
+
+	LunJiaoGao: {
+		DisplayName: 轮蛟糕
+		Tooltip: 传统蒸米糕，口感软糯有弹性，带有淡淡甜味。
+	}
+
+	LuoBo: {
+		DisplayName: 萝卜
+		Tooltip: 新鲜白萝卜，中式烹饪常用食材，口感爽脆味道清淡。
+	}
+
+	LuoBoGao: {
+		DisplayName: 萝卜糕
+		Tooltip: 美味的煎萝卜糕，以萝卜丝和米粉制成，加入虾米和腊肠提味。
+	}
+
+	MaLaGao: {
+		DisplayName: 马拉糕
+		Tooltip: 传统中式蒸蛋糕，质地轻盈蓬松，呈蜂窝状纹路。
+	}
+
+	MaTiGao: {
+		DisplayName: 马蹄糕
+		Tooltip: 晶莹剔透的甜点，以马蹄为主料，清甜爽口。马蹄形似马蹄，故得此名。
+	}
+
+	Meat: {
+		DisplayName: 肉
+		Tooltip: 新鲜肉类，多种点心的主要原料。
+	}
+
+	Oil: {
+		DisplayName: 油
+		Tooltip: 以太阳花籽榨取的食用油，中式烹饪必备。
+	}
+
+	PiDanShouRouZhou: {
+		DisplayName: 皮蛋瘦肉粥
+		Tooltip: 浓郁的白粥配以皮蛋和嫩肉丝，点缀葱花和姜丝。
+	}
+
+	Rice: {
+		DisplayName: 米
+		Tooltip: 中式料理的主食，提供营养和治疗效果。
+	}
+
+	Tea: {
+		DisplayName: 茶
+		Tooltip: 传统中国茶，点心的最佳搭配。
+	}
+
+	TiaoLiaoBao: {
+		DisplayName: 调料包
+		Tooltip: 中式烹饪常用的混合调味料包。
+	}
+
+	XiaJiao: {
+		DisplayName: 虾饺
+		Tooltip: 晶莹剔透的虾饺皮包裹鲜美虾馅，是点心的精髓。
+	}
+
+	YouCai: {
+		DisplayName: 油菜
+		Tooltip: 蒜蓉炒制的青菜，健康美味的配菜。
+	}
+
+	YouZhaGui: {
+		DisplayName: 油炸鬼
+		Tooltip: 中式油条，外酥内软的面制品。"油炸鬼"之名源于南宋秦桧夫妇，因陷害民族英雄岳飞而被民间唾弃，故以油炸其"鬼"以泄愤。
+	}
+
+	ZhaLiang: {
+		DisplayName: 炸两
+		Tooltip: 将油条裹入肠粉，口感层次丰富，外软内酥。
+	}
+
+	ZhaXianNai: {
+		DisplayName: 炸鲜奶
+		Tooltip: 炸牛奶甜点，外酥内软，奶香浓郁。
+	}
+} 

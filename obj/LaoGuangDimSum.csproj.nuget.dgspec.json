@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj": {}
+    "C:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj": {
+    "C:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj",
+        "projectUniqueName": "C:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj",
         "projectName": "LaoGuangDimSum",
-        "projectPath": "c:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj",
+        "projectPath": "C:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\LaoGuangDimSum.csproj",
         "packagesPath": "C:\\Users\\Zifan Zhang\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\obj\\",
+        "outputPath": "C:\\Users\\Zifan Zhang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LaoGuangDimSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zifan Zhang\\AppData\\Roaming\\NuGet\\NuGet.Config"
